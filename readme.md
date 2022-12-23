@@ -1,1 +1,1 @@
-(banner.gif)
+![Hello there! I'm Mariano](banner.gif)
