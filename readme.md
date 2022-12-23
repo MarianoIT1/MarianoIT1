@@ -8,7 +8,7 @@ I'm a software developer from 📍 Rosario, Argentina, whose passions are both c
 
 ---
 
-## 🍂 **Languages & Tools**
+## 📐 **Languages & Tools**
 
 <table align="center">
   <tr>
